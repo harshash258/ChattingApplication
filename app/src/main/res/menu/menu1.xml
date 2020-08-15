@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profileActivity"
+        android:icon="@drawable/ic_user"
+        android:title="Profile" />
+
+    <item android:id="@+id/createGroup"
+        android:title="Create Group"/>
+    <item
+        android:id="@+id/settingActivity"
+        android:icon="@drawable/ic_setting"
+        android:title="Setting" />
+    <item
+        android:id="@+id/aboutActivity"
+        android:title="About"
+        android:icon="@drawable/ic_about" />
+
+    <item android:id="@+id/exit"
+        android:title="Exit"/>
+
+</menu>

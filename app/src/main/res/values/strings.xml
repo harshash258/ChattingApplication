@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chatz</string>
+    <string name="welcome"><b>Welcome to Chatz - A Messaging App.\n\n Please Enter Your Phone Number
+    to Start Chatting</b></string>
+    <string name="trying"><b>Trying - </b> To auto Verify OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="remove_or_change_picture">Remove or Change Picture</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="profile">Profile</string>
+    <string name="managed_blocked_user">Managed Blocked User</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="status">Hi, I am using Chatz, an Indian Messaging App.</string>
+    <string name="fakeNumber">+91 98765 43210</string>
+    <string name="invite_a_firend">Invite a Firend</string>
+    <string name="save_image">Save Image</string>
+</resources>

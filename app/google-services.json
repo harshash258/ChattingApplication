@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059604957076",
+    "firebase_url": "https://chatz-299af.firebaseio.com",
+    "project_id": "chatz-299af",
+    "storage_bucket": "chatz-299af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059604957076:android:01fc50bc7597f170733181",
+        "android_client_info": {
+          "package_name": "com.mycompany.newchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059604957076-9b98b6altpllsf4a493b1v7ujuh2cgrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtjlO8Jg6B0zk0_pUc4HDlFlR7-X2mdjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059604957076-9b98b6altpllsf4a493b1v7ujuh2cgrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
